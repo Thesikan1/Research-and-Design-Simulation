@@ -1,11 +1,6 @@
-# Ignore virtual environments
 fusion_env/
 fusion_env2/
 venvs/
-
-# Python cache
 __pycache__/
 *.pyc
-
-# Jupyter checkpoints
 .ipynb_checkpoints/
